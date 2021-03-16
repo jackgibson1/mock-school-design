@@ -17,7 +17,7 @@ function Card(props) {
     <MDBCardImage style={styles.img} className="img-fluid" src={info.imgpath}
       waves />
     <MDBCardBody>
-      <MDBCardTitle>{info.title}</MDBCardTitle>
+      <MDBCardTitle className="cardTitle">{info.title}</MDBCardTitle>
       <MDBCardText>Some quick example text to build on the card title and make up the bulk of the card's content.</MDBCardText>
       <MDBBtn href={info.buttonLink} target = "_blank">{info.buttonText}</MDBBtn>
     </MDBCardBody>

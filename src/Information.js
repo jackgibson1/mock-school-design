@@ -34,7 +34,7 @@ function Information() {
         <MDBContainer fluid style={containerStyle} className="Information text-center pb-5">
         <MDBRow className="justify-content-center">
         <MDBCol md="12" className="pt-3">
-        <h2 className="mt-5 mb-5"><strong>Information</strong></h2>
+        <h2 className="mt-5 mb-2"><strong>Information</strong></h2>
         </ MDBCol>
           {CardInformation.map(info => { 
               return ( 
