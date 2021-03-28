@@ -14,14 +14,14 @@ function Videos() {
                 style={{ display: 'flex', alignItems: 'center', justifyContent: 'center',}} 
                 className="Videos text-center pt-1"
               >
-                <ReactPlayer url="https://www.youtube.com/watch?v=omKJykIyWdM" />
+                <ReactPlayer url="https://www.youtube.com/watch?v=bx1Bh8ZvH84" />
              </MDBContainer>
              <h6 className="pt-3"><strong>We've Got History</strong></h6>
              <MDBContainer 
                 style={{ display: 'flex', alignItems: 'center', justifyContent: 'center',}} 
                 className="Videos text-center pt-1"
               >
-                <ReactPlayer url="https://www.youtube.com/watch?v=mdIPo-hpask" />
+                <ReactPlayer url="https://www.youtube.com/watch?v=bx1Bh8ZvH84" />
              </MDBContainer>
 
           </MDBCol>

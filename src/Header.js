@@ -22,7 +22,7 @@ function Header()  {
         <header>
             <MDBNavbar color="elegant" fixed="top" dark expand="md" scrolling>
               <MDBNavbarBrand className="black-text" href="/">
-                <img style={styles.img} src="images/BallyvesterLogo.png" />
+                <img style={styles.img} src="images/mockLogo.png" />
               </MDBNavbarBrand>
               {!isWideEnough && <MDBNavbarToggler className="black" onClick={onClick} />}
               <MDBCollapse isOpen={collapse} navbar>

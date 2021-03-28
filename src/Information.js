@@ -7,19 +7,19 @@ const CardInformation = [
         title: 'School Diary', 
         imgpath: 'images/diary.jpeg', 
         buttonText: 'View Full List', 
-        buttonLink: 'public/images/2019-20-holiday-dates.pdf'
+        buttonLink: 'public/images/test.png'
     }, 
     { 
         title: 'Prospectus', 
         imgpath: 'images/prospectus.jpeg', 
         buttonText: 'Download', 
-        buttonLink: 'public/images/2019-20-holiday-dates.pdf'
+        buttonLink: 'public/images/test.png'
     }, 
     { 
         title: 'Photo Gallery', 
         imgpath: 'images/photoalbum.jpeg', 
         buttonText: 'View Gallery', 
-        buttonLink: 'public/images/2019-20-holiday-dates.pdf'
+        buttonLink: 'public/images/test.png'
     }
 ]
 
